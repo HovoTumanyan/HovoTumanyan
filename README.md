@@ -10,7 +10,7 @@
 ---
 
 ### 📫 Как со мной связаться?
-- **Telegram**: @HovoTumanyan
+- **Telegram**: [@HovoTumanyan](https://t.me/HovoTumanyan)
 - **Почта**: hovotumanyanyana@gmail.com
 
 🚀 **Всегда открыт для новых проектов и идей!**
