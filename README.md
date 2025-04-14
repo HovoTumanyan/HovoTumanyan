@@ -9,9 +9,8 @@
 
 ---
 
-### 📫 Как со мной связаться?
+### 📫 Contact me
 - **Telegram**: [@HovoTumanyan](https://t.me/HovoTumanyan)
-- **Почта**: hovotumanyanyana@gmail.com
+- **Mail**: hovotumanyanyana@gmail.com
 
-🚀 **Всегда открыт для новых проектов и идей!**
 
