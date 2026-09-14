@@ -1,224 +1,230 @@
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=750&height=90&lines=%24+whoami;%3E+Full-Stack+Developer;%24+status+--current;%3E+building+%2F+learning+%2F+shipping"
-alt="Terminal typing"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2200&pause=750&color=7EE787&center=true&vCenter=true&width=720&height=80&cursor=true&cursorChar=%E2%96%8C&cursorColor=7EE787&lines=%24+whoami;%3E+Full-Stack+Developer;%24+echo+%24STATUS;%3E+building+%2F+learning+%2F+improving"
 />
 
 <br/>
 
-<code>developer@github:~$ █</code>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=HovoTumanyan&label=PROFILE%20SESSIONS&style=flat-square&color=161B22"/>
+<code>hovo@github:~$ ▌</code>
 
 </div>
 
 <br/>
 
 ```console
-┌──(developer㉿github)-[~]
-└─$ cat profile.conf
+┌──(hovo㉿github)-[~]
+└─$ whoami
+
+Full-Stack Developer
+Yerevan, Armenia 🇦🇲
+```
+
+```console
+┌──(hovo㉿github)-[~]
+└─$ cat /etc/developer.conf
 
 ROLE        = Full-Stack Developer
-LOCATION    = Yerevan, Armenia 🇦🇲
-MODE        = BUILD
+LOCATION    = Yerevan, Armenia
 FOCUS       = Web / Mobile / Backend
-STATUS      = ONLINE
+MODE        = BUILD
+STATUS      = ACTIVE
 ```
 
-<br/>
+---
 
 ```console
-┌──(developer㉿github)-[~/stack]
-└─$ ls
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vite&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,mongodb,redis,rabbitmq&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" />
-
-</div>
-
-<br/>
-
-```text
-frontend/
-├── React
-├── Next.js
-├── React Native
-├── TypeScript
-└── JavaScript
-
-backend/
-├── Node.js
-├── Express
-└── Go
-
-data/
-├── PostgreSQL
-├── MongoDB
-└── Redis
-
-infra/
-├── RabbitMQ
-├── Docker
-└── Git
-```
-
-<br/>
-
-```console
-┌──(developer㉿github)-[~/processes]
-└─$ ps --active
+┌──(hovo㉿github)-[~/stack]
+└─$ tree
 ```
 
 ```text
-PID   PROCESS                         STATUS
-001   backend-architecture            running
-002   scalable-api-design             running
-003   system-design                   learning
-004   clean-code                      improving
-005   turning-ideas-into-products     running
+stack/
+│
+├── frontend/
+│   ├── React
+│   ├── Next.js
+│   ├── React Native
+│   ├── TypeScript
+│   ├── JavaScript
+│   ├── HTML
+│   └── CSS
+│
+├── backend/
+│   ├── Node.js
+│   ├── Express
+│   ├── Go
+│   ├── REST APIs
+│   └── WebSockets
+│
+├── database/
+│   ├── PostgreSQL
+│   ├── MongoDB
+│   └── Redis
+│
+└── infrastructure/
+    ├── RabbitMQ
+    ├── Docker
+    ├── Git
+    └── GitHub
 ```
 
-<br/>
+---
 
 ```console
-┌──(developer㉿github)-[~/github]
-└─$ ./stats --summary
+┌──(hovo㉿github)-[~/processes]
+└─$ ps --developer
 ```
 
-<div align="center">
+```text
+ PID   PROCESS                         STATUS
 
-<img
-height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HovoTumanyan&theme=github_dark"
-/>
-
-<img
-height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HovoTumanyan&theme=github_dark"
-/>
-
-<br/><br/>
-
-<img
-width="90%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HovoTumanyan&theme=github_dark"
-/>
-
-</div>
-
-<br/>
-
-```console
-┌──(developer㉿github)-[~/activity]
-└─$ git log --graph --all
+ 101   backend-architecture            [ RUNNING ]
+ 102   scalable-api-design             [ RUNNING ]
+ 103   database-design                 [ RUNNING ]
+ 104   system-design                   [ LEARNING ]
+ 105   infrastructure                  [ LEARNING ]
+ 106   code-quality                    [ IMPROVING ]
 ```
 
-<div align="center">
-
-<img
-width="94%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=HovoTumanyan&bg_color=0D1117&color=8B949E&line=39FF14&point=58A6FF&area=true&area_color=161B22&hide_border=true"
-/>
-
-</div>
-
-<br/>
+---
 
 ```console
-┌──(developer㉿github)-[~/contributions]
-└─$ render --3d
+┌──(hovo㉿github)-[~/focus]
+└─$ cat current_focus
 ```
 
-<div align="center">
+```text
+[ OK ] Backend architecture
+[ OK ] Scalable APIs
+[ OK ] Database design
+[ .. ] System design
+[ .. ] Infrastructure
+[ .. ] Better engineering practices
+```
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/main/profile-3d-contrib/profile-night-rainbow.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/main/profile-3d-contrib/profile-green-animate.svg"
-  />
-  <img
-    width="95%"
-    alt="3D Contribution Calendar"
-    src="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/main/profile-3d-contrib/profile-night-rainbow.svg"
-  />
-</picture>
-
-</div>
-
-<br/>
+---
 
 ```console
-┌──(developer㉿github)-[~/runtime]
+┌──(hovo㉿github)-[~/runtime]
 └─$ systemctl status developer
 ```
 
 ```text
 ● developer.service
-   Loaded: loaded
-   Active: active (running)
 
-   Frontend ................. ONLINE
-   Backend .................. ONLINE
-   Mobile ................... ONLINE
-   Database ................. ONLINE
+     Loaded: loaded
+     Active: active (running)
 
-   Architecture ............. IMPROVING
-   System Design ............ LEARNING
-   Current Mode ............. BUILD
-   Runtime .................. ∞
+     Frontend ............... ONLINE
+     Backend ................ ONLINE
+     Mobile ................. ONLINE
+     Database ............... ONLINE
+
+     Architecture ........... IMPROVING
+     System Design .......... LEARNING
+     Infrastructure ......... LEARNING
+
+     Mode ................... BUILD
+     Uptime ................. ∞
 ```
 
-<br/>
+---
 
 ```console
-┌──(developer㉿github)-[~/network]
-└─$ contact --list
+┌──(hovo㉿github)-[~/workspace]
+└─$ git status
+```
+
+```text
+On branch development
+
+Changes in progress:
+
+  modified:   backend-architecture
+  modified:   system-design
+  modified:   scalability
+  modified:   engineering-skills
+
+no final version — continuously improving.
+```
+
+---
+
+```console
+┌──(hovo㉿github)-[~/workspace]
+└─$ git log --oneline
+```
+
+```text
+a91f0e2  improve code quality
+6bd231a  learn something new
+39fa827  build another idea
+0c61b4e  fix what I broke
+725ea8c  understand it better
+f1a0259  keep moving forward
+```
+
+---
+
+```console
+┌──(hovo㉿github)-[~/principles]
+└─$ cat engineering.rules
+```
+
+```text
+01  Keep architecture understandable.
+
+02  Avoid unnecessary complexity.
+
+03  Prefer maintainable code.
+
+04  Build with future growth in mind.
+
+05  Learn by shipping real software.
+```
+
+---
+
+```console
+┌──(hovo㉿github)-[~/network]
+└─$ cat contacts.conf
+```
+
+```text
+TELEGRAM   @HovoTumanyan
+EMAIL      hovotumanyanyana@gmail.com
 ```
 
 <div align="center">
 
-<a href="https://t.me/HovoTumanyan">
-  <img src="https://img.shields.io/badge/Telegram-CONNECT-161B22?style=for-the-badge&logo=telegram&logoColor=39FF14"/>
-</a>
-
- 
-
-<a href="mailto:hovotumanyanyana@gmail.com">
-  <img src="https://img.shields.io/badge/Email-SEND-161B22?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
-</a>
+<a href="https://t.me/HovoTumanyan"><code>[ TELEGRAM ]</code></a>
+    <a href="mailto:hovotumanyanyana@gmail.com"><code>[ EMAIL ]</code></a>
 
 </div>
 
-<br/><br/>
+---
+
+```console
+┌──(hovo㉿github)-[~]
+└─$ echo $MINDSET
+```
+
+```text
+Strive for self-development.
+
+Build.
+Learn.
+Improve.
+Repeat.
+```
+
+<br/>
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=6E7681&center=true&vCenter=true&width=700&lines=%24+git+commit+-m+%22keep+improving%22;%24+git+push+origin+future;%24+_"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=7EE787&center=true&vCenter=true&width=680&height=50&cursor=true&cursorChar=%E2%96%8C&cursorColor=7EE787&lines=hovo%40github%3A~%24+git+commit+-m+%22keep+improving%22;hovo%40github%3A~%24+git+push+origin+future;hovo%40github%3A~%24"
 />
-
-<br/>
-
-```text
-Connection established.
-Session remains active.
-```
 
 </div>
