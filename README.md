@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2200&pause=750&color=7EE787&center=true&vCenter=true&width=720&height=80&cursor=true&cursorChar=%E2%96%8C&cursorColor=7EE787&lines=%24+whoami;%3E+Full-Stack+Developer;%24+echo+%24STATUS;%3E+building+%2F+learning+%2F+improving"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2200&pause=750&color=7EE787&center=true&vCenter=true&width=720&height=80&cursor=true&cursorChar=%E2%96%8C&cursorColor=7EE787&lines=%24+whoami;%3E+Full-Stack+Developer;%24+echo+%24STATUS;%3E+building+%2F+learning+%2F+improving;Strive+for+self-development.;Build.;Learn.;Improve.;Repeat."
 />
 
 <br/>
