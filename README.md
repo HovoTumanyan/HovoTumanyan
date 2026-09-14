@@ -1,92 +1,112 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:00BFFF&height=220&section=header&text=Hovo%20Tumanyan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+React+Native;Node.js+%E2%80%A2+Go+%E2%80%A2+PostgreSQL;Building+%E2%80%A2+Learning+%E2%80%A2+Improving" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=750&height=90&lines=%24+whoami;%3E+Full-Stack+Developer;%24+status+--current;%3E+building+%2F+learning+%2F+shipping"
+alt="Terminal typing"
+/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=HovoTumanyan&label=PROFILE+VIEWS&style=for-the-badge&color=6E40C9" />
+<code>developer@github:~$ █</code>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=HovoTumanyan&label=PROFILE%20SESSIONS&style=flat-square&color=161B22"/>
 
 </div>
 
----
+<br/>
 
-## `> whoami`
+```console
+┌──(developer㉿github)-[~]
+└─$ cat profile.conf
 
-```javascript
-const hovo = {
-  location: "Yerevan, Armenia 🇦🇲",
-  role: "Full-Stack Developer",
-
-  frontend: [
-    "React",
-    "Next.js",
-    "React Native"
-  ],
-
-  backend: [
-    "Node.js",
-    "Go"
-  ],
-
-  databases: [
-    "PostgreSQL",
-    "MongoDB",
-    "Redis"
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "Backend Architecture",
-    "Scalable Applications"
-  ],
-
-  mindset: "Strive for self-development."
-};
+ROLE        = Full-Stack Developer
+LOCATION    = Yerevan, Armenia 🇦🇲
+MODE        = BUILD
+FOCUS       = Web / Mobile / Backend
+STATUS      = ONLINE
 ```
 
----
+<br/>
+
+```console
+┌──(developer㉿github)-[~/stack]
+└─$ ls
+```
 
 <div align="center">
 
-## ⚡ Tech Stack
-
-<br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vite&theme=dark" />
 
 <br/><br/>
 
-### Mobile & Backend
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,mongodb,redis,rabbitmq&theme=dark" />
 
 <br/><br/>
 
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" />
 
 </div>
 
----
+<br/>
 
-<div align="center">
+```text
+frontend/
+├── React
+├── Next.js
+├── React Native
+├── TypeScript
+└── JavaScript
 
-## 📊 GitHub Analytics
+backend/
+├── Node.js
+├── Express
+└── Go
+
+data/
+├── PostgreSQL
+├── MongoDB
+└── Redis
+
+infra/
+├── RabbitMQ
+├── Docker
+└── Git
+```
 
 <br/>
 
+```console
+┌──(developer㉿github)-[~/processes]
+└─$ ps --active
+```
+
+```text
+PID   PROCESS                         STATUS
+001   backend-architecture            running
+002   scalable-api-design             running
+003   system-design                   learning
+004   clean-code                      improving
+005   turning-ideas-into-products     running
+```
+
+<br/>
+
+```console
+┌──(developer㉿github)-[~/github]
+└─$ ./stats --summary
+```
+
+<div align="center">
+
 <img
-height="180em"
+height="170"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HovoTumanyan&theme=github_dark"
 />
 
 <img
-height="180em"
+height="170"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HovoTumanyan&theme=github_dark"
 />
 
@@ -97,92 +117,108 @@ width="90%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HovoTumanyan&theme=github_dark"
 />
 
-<br/><br/>
+</div>
+
+<br/>
+
+```console
+┌──(developer㉿github)-[~/activity]
+└─$ git log --graph --all
+```
+
+<div align="center">
 
 <img
-width="90%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=HovoTumanyan&bg_color=0D1117&color=58A6FF&line=6E40C9&point=00BFFF&area=true&hide_border=true"
+width="94%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=HovoTumanyan&bg_color=0D1117&color=8B949E&line=39FF14&point=58A6FF&area=true&area_color=161B22&hide_border=true"
 />
 
 </div>
 
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
 <br/>
 
-<img
-src="https://streak-stats.demolab.com?user=HovoTumanyan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6E40C9&fire=00BFFF&currStreakLabel=58A6FF"
-/>
-
-</div>
-
----
+```console
+┌──(developer㉿github)-[~/contributions]
+└─$ render --3d
+```
 
 <div align="center">
-
-## 🐍 Contributions
-
-<br/>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/main/profile-3d-contrib/profile-night-rainbow.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/main/profile-3d-contrib/profile-green-animate.svg"
   />
   <img
-    alt="Snake animation"
-    src="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="3D Contribution Calendar"
+    src="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/main/profile-3d-contrib/profile-night-rainbow.svg"
   />
 </picture>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-## 🎯 Current Direction
-
-```text
-01. Write better code
-02. Build scalable applications
-03. Improve backend architecture
-04. Learn system design
-05. Turn ideas into real products
+```console
+┌──(developer㉿github)-[~/runtime]
+└─$ systemctl status developer
 ```
 
-</div>
+```text
+● developer.service
+   Loaded: loaded
+   Active: active (running)
 
----
+   Frontend ................. ONLINE
+   Backend .................. ONLINE
+   Mobile ................... ONLINE
+   Database ................. ONLINE
 
-<div align="center">
-
-## 📫 Connect With Me
-
-<a href="https://t.me/HovoTumanyan">
-  <img src="https://img.shields.io/badge/Telegram-HovoTumanyan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="mailto:hovotumanyanyana@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-hovotumanyanyana%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+   Architecture ............. IMPROVING
+   System Design ............ LEARNING
+   Current Mode ............. BUILD
+   Runtime .................. ∞
+```
 
 <br/>
 
+```console
+┌──(developer㉿github)-[~/network]
+└─$ contact --list
+```
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Strive+for+self-development.;Build.+Learn.+Improve.;One+commit+at+a+time." />
+<a href="https://t.me/HovoTumanyan">
+  <img src="https://img.shields.io/badge/Telegram-CONNECT-161B22?style=for-the-badge&logo=telegram&logoColor=39FF14"/>
+</a>
+
+ 
+
+<a href="mailto:hovotumanyanyana@gmail.com">
+  <img src="https://img.shields.io/badge/Email-SEND-161B22?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
+</a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6E40C9,100:0D1117&height=120&section=footer"/>
+<br/><br/>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=6E7681&center=true&vCenter=true&width=700&lines=%24+git+commit+-m+%22keep+improving%22;%24+git+push+origin+future;%24+_"
+/>
+
+<br/>
+
+```text
+Connection established.
+Session remains active.
+```
+
+</div>
