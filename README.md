@@ -80,13 +80,29 @@ const hovo = {
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HovoTumanyan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img
+height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HovoTumanyan&theme=github_dark"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HovoTumanyan&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img
+height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HovoTumanyan&theme=github_dark"
+/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HovoTumanyan&theme=github-compact&hide_border=true&area=true"/>
+<img
+width="90%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HovoTumanyan&theme=github_dark"
+/>
+
+<br/><br/>
+
+<img
+width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=HovoTumanyan&bg_color=0D1117&color=58A6FF&line=6E40C9&point=00BFFF&area=true&hide_border=true"
+/>
 
 </div>
 
@@ -96,7 +112,11 @@ const hovo = {
 
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=HovoTumanyan&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+<br/>
+
+<img
+src="https://streak-stats.demolab.com?user=HovoTumanyan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6E40C9&fire=00BFFF&currStreakLabel=58A6FF"
+/>
 
 </div>
 
@@ -106,7 +126,22 @@ const hovo = {
 
 ## 🐍 Contributions
 
-<img src="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Snake animation"
+    src="https://raw.githubusercontent.com/HovoTumanyan/HovoTumanyan/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
